@@ -35,6 +35,12 @@ body {
 	padding: 5px 10px;
 	margin-bottom: 2px;
 }
+
+#signup label {
+	float: left;
+	font-size: 13px;
+	width: 110px;
+}
 			
 #signup button {	
 	border: 1px solid #222;
